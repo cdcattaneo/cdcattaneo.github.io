@@ -2,7 +2,7 @@
 
 I'm from Boston's North End. I’ve spent the last few years natural [bodybuilding](https://www.instagram.com/zorbbrah/) and [building](https://gethype.webflow.io/) a social media investing app. 
 
-I studied Computer Science at [Northeastern University](https://huntnewsnu.com/74975/campus/northeastern-undergraduate-applications-surge-breaking-record-2024/#:~:text=According%20to%20NGN%2C%20the%20number,is%20also%20expected%20to%20drop.) and am passionate enjoy building websites:
+I studied Computer Science at [Northeastern University](https://huntnewsnu.com/74975/campus/northeastern-undergraduate-applications-surge-breaking-record-2024/#:~:text=According%20to%20NGN%2C%20the%20number,is%20also%20expected%20to%20drop.) and enjoy building websites:
 1. [Ironic T-Shirts](https://vril.shop/)
 2. [Fine Wines & Spirits](https://deec90-17.myshopify.com/)
 3. [Biomedical Industry](https://www.ais-imaging.com/)

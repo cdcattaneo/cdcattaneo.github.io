@@ -2,7 +2,7 @@
 
 My name is Christian Demierre Cattaneo. I'm Swiss, Italian, Dutch, Canadian, and American. I grew up in Boston's historic [North End](https://en.wikipedia.org/wiki/North_End,_Boston).
 
-My main interests are cryptocurrency, social media, and design. As a result I’ve begun building [hype](https://gethype.webflow.io/), a social media investing app. The idea is to be able to invest in up-and-coming artists, athletes, and influencers through microtransactions.
+My main interests are fintech, social media, and design. As a result I’ve begun building [hype](https://gethype.webflow.io/), a social media investing app. The idea is to be able to invest in up-and-coming artists, athletes, and influencers through microtransactions.
 
 I studied Computer Engineering and Computer Science at [Northeastern](https://huntnewsnu.com/74975/campus/northeastern-undergraduate-applications-surge-breaking-record-2024/#:~:text=According%20to%20NGN%2C%20the%20number,is%20also%20expected%20to%20drop.), where I started the Bodybuilding Club. You can check out my bodybuilding [here](https://www.instagram.com/zorbbrah/).
 

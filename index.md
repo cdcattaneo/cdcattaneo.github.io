@@ -1,6 +1,6 @@
 <img src="IMG_0051.JPG" alt="Example Image" width="300">
 
-My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and French Canadian. I speak French fluently, Italian poorly, and a pitiful, incomprehensible dialect of tourist Mandarin. I grew up in Boston's Little Italy or [North End](https://en.wikipedia.org/wiki/North_End,_Boston) and attended [Boston College High School](https://en.wikipedia.org/wiki/Boston_College_High_School).
+My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and French Canadian. I speak French fluently, Italian poorly, and a pitiful, incomprehensible dialect of Mandarin Chinese. I grew up in Boston's Little Italy or [North End](https://en.wikipedia.org/wiki/North_End,_Boston) and attended [Boston College High School](https://en.wikipedia.org/wiki/Boston_College_High_School).
 
 My main interests are fintech, social media, and design. As a result I’ve begun building [hype](https://gethype.webflow.io/), a social media investing app. This is to fulfill my selfish desire to profit off rising artists, athletes, and influencers using micro-investments instead of likes.
 

@@ -1,6 +1,6 @@
 <img src="IMG_0051.JPG" alt="Example Image" width="300">
 
-My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and French Canadian. I secretly hold 4 passports——do NOT tell anyone!!
+My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and French Canadian. I secretly hold 4 passports—do NOT tell anyone!!
 
 I speak French fluently, Italian (if we're stretching it), and a pitiful, incomprehensible excuse for Mandarin Chinese. But it comes back when I'm immersed, believe me!
 

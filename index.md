@@ -2,7 +2,7 @@
 
 My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and French Canadian. I secretly hold 4 passports——do NOT tell anyone!!
 
-I speak French fluently, Italian if we're stretching it, and a pitiful, incomprehensible excuse for Mandarin Chinese. But it comes back when I'm immersed, believe me.
+I speak French fluently, Italian if we're stretching it, and a pitiful, incomprehensible excuse for Mandarin Chinese. But it comes back when I'm immersed, please believe me.
 
 I grew up in Boston's Little Italy or ["North End"](https://en.wikipedia.org/wiki/North_End,_Boston) and attended [Boston College High School](https://en.wikipedia.org/wiki/Boston_College_High_School) in Dorchester, Mass.
 

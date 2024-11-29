@@ -10,4 +10,4 @@ I studied Computer Engineering and Computer Science at [Northeastern University]
 
 I also enjoy building websites in my spare time, like this one for a [Biomedical company](https://www.ais-imaging.com/).
 
-Thanks for reading! :)
+Thanks for reading! -C :)

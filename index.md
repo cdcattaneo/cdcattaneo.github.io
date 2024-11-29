@@ -9,3 +9,5 @@ My main interests are fintech, social media, and design. As a result I’ve begu
 I studied Computer Engineering and Computer Science at [Northeastern University](https://en.wikipedia.org/wiki/Northeastern_University), where I started the Bodybuilding Club. You can check out my natural bodybuilding [here](https://www.instagram.com/zorbbrah/).
 
 I also enjoy building websites in my spare time, like this one for a [Biomedical company](https://www.ais-imaging.com/).
+
+Thanks for reading! :)

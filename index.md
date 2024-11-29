@@ -1,4 +1,4 @@
-![christian]([https://example.com/image.png](https://github.com/cdcattaneo/cdcattaneo.github.io/blob/main/IMG_0051.JPG))
+![christian](IMG_0051.JPG)
 
 
 My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and Québécois. I speak French fluently, Italian poorly, and a pitiful, incomprehensible dialetec of tourist Mandarin. I grew up in Boston's historic [North End](https://en.wikipedia.org/wiki/North_End,_Boston) and attended [Boston College High School](https://en.wikipedia.org/wiki/Boston_College_High_School).

@@ -1,10 +1,10 @@
 <img src="IMG_0051.JPG" alt="Example Image" width="300">
 
-My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and French Canadian. I secretly hold 4 passports—do NOT tell anyone!
+My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and French Canadian... (I secretly hold 4 passports—do NOT tell anyone!)
 
-I speak French fluently, Italian (if we're stretching it), and a pitiful, incomprehensible excuse for Mandarin Chinese. But it comes back when I'm immersed, trust me.
+I speak French fluently, Italian (if we're stretching it), and a pitiful, insolent excuse for Mandarin Chinese. But it comes back when I'm immersed, trust me.
 
-I grew up in Boston's Little Italy or ["North End"](https://en.wikipedia.org/wiki/North_End,_Boston) and attended [Boston College High School](https://en.wikipedia.org/wiki/Boston_College_High_School) in Dorchester, Mass, where I not only survived but also thrived!
+I grew up in Boston's Little Italy or ["North End"](https://en.wikipedia.org/wiki/North_End,_Boston) and attended [Boston College High School](https://en.wikipedia.org/wiki/Boston_College_High_School) in Dorchester, Mass, where I not only survived, but also thrived!
 
 My main interests are fintech, social media, and design. As a result I’ve begun building [hype](https://gethype.webflow.io/), a social media investing app. This is to serve my selfish desire to profit off of rising artists, athletes, and influencers using micro-investments instead of likes.
 

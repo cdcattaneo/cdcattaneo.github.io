@@ -1,4 +1,4 @@
-<img src="IMG_0051.JPG" alt="Example Image" width="300">
+<img src="Untitled.jpg" alt="Example Image" width="300">
 
 My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and Canadian! I speak French, Italian (if we're stretching it), and my personal incomprehensible dialect of Mandarin Chinese.
 

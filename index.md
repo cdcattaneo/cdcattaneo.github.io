@@ -1,6 +1,6 @@
 <img src="Untitled.jpg" alt="Example Image" width="300">
 
-My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and Canadian! I speak French, Italian (if we're stretching it), and my personal incomprehensible dialect of Mandarin Chinese.
+My name is Christian Demierre Cattaneo. I'm Swiss, Italian, American, and Canadian! I speak French, Italian, and a bit of Mandarin.
 
 I grew up in Boston's Little Italy or ["North End"](https://en.wikipedia.org/wiki/North_End,_Boston) and attended [Boston College High School](https://en.wikipedia.org/wiki/Boston_College_High_School) in Dorchester, Mass.
 
